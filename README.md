@@ -1,5 +1,11 @@
 # Elegant Chess
 
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide_Icons-latest-F56565?style=for-the-badge&logo=lucide&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
+
+</div>
+
 A classic chess game reimagined for the browser — built with Next.js, TypeScript, and Tailwind CSS. Play a full two-player game with move validation, clocks, and a refined board UI.
 
 ## Features
@@ -21,6 +27,12 @@ A classic chess game reimagined for the browser — built with Next.js, TypeScri
 | Language | TypeScript |
 | Styling | Tailwind CSS |
 | Icons | lucide-react |
+
+## 📸 Screenshots
+
+### Game Board — Clocks & Move History
+
+![Game Board — Clocks & Move History](screenshots/board.png)
 
 ## Getting Started
 
